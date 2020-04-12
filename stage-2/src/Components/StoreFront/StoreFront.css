@@ -3,8 +3,9 @@
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  font-family: 'Source Code Pro', monospace;
+  font-family: "Source Code Pro", monospace;
 }
+
 img {
   height: 400px;
   width: auto;
@@ -13,7 +14,6 @@ img {
 .product-container {
   margin: 5vh 0;
 }
-
 
 .storefront-container h2 {
   font-size: 30px;
